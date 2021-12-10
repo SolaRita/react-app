@@ -1,0 +1,15 @@
+{
+    "cards": [{
+        "id":1,
+        "imgName":"Andratx",
+        "imgUser":"Rita",
+        "imgURL":"img1"
+    },
+    {
+        "id":2,
+        "imgName":"La Colonia",
+        "imgUser":"Susana",
+        "imgURL":"img2"  
+    }
+]
+}

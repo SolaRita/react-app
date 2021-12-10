@@ -1,0 +1,9 @@
+$colorPrincipal: hsl(219, 42%, 19%);
+$colorSecondary: hsl(193, 45%, 49%);
+$colorCard: hsl(268, 95%, 68%);
+$filterPrincipal: invert(26%) sepia(19%) saturate (6454%) hue-rotate(189deg) brightness(99%) contrast(83%);
+@mixin displayFlex {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
